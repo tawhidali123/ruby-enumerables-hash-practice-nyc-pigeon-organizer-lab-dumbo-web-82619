@@ -5,6 +5,9 @@ def nyc_pigeon_organizer(data)
     |col_gen_liv, descriptions|
     descriptions.each {
       |value, array|
-      
+      array.each {
+        
+      }
+    }
   }
 end
