@@ -18,7 +18,9 @@ def nyc_pigeon_organizer(data)
   
   holder.each {
     |name, values|
-    
+    values.each {
+      ||
+    }
   }
   
 end
