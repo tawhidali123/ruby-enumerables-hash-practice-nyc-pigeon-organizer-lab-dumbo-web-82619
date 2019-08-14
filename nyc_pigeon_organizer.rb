@@ -22,7 +22,9 @@ def nyc_pigeon_organizer(data)
       |hash, array|
       data.each {
         |col_gen_liv, descriptions|
-        
+        descriptions.each {
+          
+        }
       }
     }
   }
