@@ -10,8 +10,11 @@ def nyc_pigeon_organizer(data)
         if holder[name] == nil
           holder[name] = {}
           holder[name][col_gen_liv] = []
-        else 
+        else holder[name][col_gen_liv] = []
+      end
       }
     }
   }
+  
+  
 end
