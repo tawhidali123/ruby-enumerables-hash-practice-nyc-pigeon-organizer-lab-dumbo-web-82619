@@ -1,3 +1,9 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  holder = {}
+  
+  data.each {
+    |col_gen_liv, description|
+    description.each {
+      
+  }
 end
