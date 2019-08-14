@@ -27,7 +27,8 @@ def nyc_pigeon_organizer(data)
           array.each {
             |element|
             if element == name && hash == col_gen_liv
-              holder[name][hash].push()
+              holder[name][hash].push(value)
+            end
           }
         }
       }
