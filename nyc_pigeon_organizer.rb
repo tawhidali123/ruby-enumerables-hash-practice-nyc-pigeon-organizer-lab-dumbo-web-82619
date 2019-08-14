@@ -6,7 +6,10 @@ def nyc_pigeon_organizer(data)
     descriptions.each {
       |value, array|
       array.each {
-        
+        |name|
+        if holder[name] == nil
+          holder[name] = {}
+          
       }
     }
   }
