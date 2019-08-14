@@ -4,6 +4,6 @@ def nyc_pigeon_organizer(data)
   data.each {
     |col_gen_liv, description|
     description.each {
-      
+      ||
   }
 end
