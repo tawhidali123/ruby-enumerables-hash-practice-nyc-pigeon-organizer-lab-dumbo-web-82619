@@ -25,7 +25,8 @@ def nyc_pigeon_organizer(data)
         descriptions.each {
           |value, array|
           array.each {
-            ||
+            |element|
+            
           }
         }
       }
