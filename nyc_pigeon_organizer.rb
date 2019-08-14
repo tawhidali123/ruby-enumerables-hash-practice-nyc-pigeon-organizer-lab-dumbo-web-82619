@@ -20,7 +20,9 @@ def nyc_pigeon_organizer(data)
     |name, values|
     values.each {
       |hash, array|
-      
+      data.each {
+        ||
+      }
     }
   }
   
